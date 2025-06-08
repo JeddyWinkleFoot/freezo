@@ -4,7 +4,6 @@
 <head>
 </head>
 <body>
-  <h1>FreezoMC</h1>
-  <p>This is my GitHub Pages site.</p>
+  <p>FreezoMC website.</p>
 </body>
 </html>
